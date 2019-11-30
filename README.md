@@ -2,8 +2,7 @@
 Mini Snake and ladder is one of the most used game. 
 The game is been implemented in Java programming language and it is Non GUI Based Game
 
-The Game provides the information
-Please read information about the game before starting
+The Game provides the information before starting,
     ladder to climbs 
         4 to 14
         9 to 31
